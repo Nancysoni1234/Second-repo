@@ -2,4 +2,4 @@
 <br>
 Author=Nancy Soni
 <br>
-Nancy Learning to use Git and Github
+Nancy soni Learning to use Git and Github
